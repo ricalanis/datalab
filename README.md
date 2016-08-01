@@ -17,6 +17,7 @@ Este proceso está detallado en esta libreta:
 https://github.com/ricalanis/datalab/blob/master/notebooks/1-0.1-rdat-exploracionexcel-LimpiezaDatos.ipynb
 El proceso de limpieza automatizado está embebido al Makefile de esta carpeta que referencia [datalab/src/data at master · ricalanis/datalab · GitHub](https://github.com/ricalanis/datalab/tree/master/src/data)
 Al final de este proceso, se almacenan los datos en mlab.com
+En esta carpeta, el histograma de observaciones de coordenadas de longitud y de latitud: https://github.com/ricalanis/datalab/blob/master/reports/figures/
 
 ## API de datos.
 La consulta de la cercanía se apoyó en dos herramientas:
