@@ -36,3 +36,4 @@ datalabapi.herokuapp.com/get_near_points?longitude=-104.45126666666668&latitude=
 ## MVP de Visualización
 Se utilizó un template de AngularJS para generar un mapa dinámico que consume la información expuesta en la API.
 http://104.196.40.88/
+Al dar click en cualquier parte del mapa se generan rutas: Cada solicitud hecha a la API se puede verificar en la consola del explorador.
